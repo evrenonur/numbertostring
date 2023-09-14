@@ -14,5 +14,6 @@
             "email": "onur.evren.1999@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }

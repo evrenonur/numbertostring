@@ -61,7 +61,7 @@ class NumberToString
         return $text;
     }
 
-    public function numberToStringInternal($number)
+    private function numberToStringInternal($number)
     {
         $ones = array("", "Bir", "İki", "Üç", "Dört", "Beş", "Altı", "Yedi", "Sekiz", "Dokuz");
         $tens = array("", "On", "Yirmi", "Otuz", "Kırk", "Elli", "Altmış", "Yetmiş", "Seksen", "Doksan");
