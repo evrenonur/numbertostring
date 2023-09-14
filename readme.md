@@ -11,7 +11,7 @@ Faturalarınız vb işleriniz için fatura tutarını 4 farklı para biriminde [
 ## Kurulum
 
 ```
-composer require onurevren/numbertostring
+composer require evrenonur/numbertostring
 ```
 
 
