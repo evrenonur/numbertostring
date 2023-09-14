@@ -16,7 +16,6 @@ composer require onurevren/numbertostring
 
 
 ## Kullanım
-getCategoryNews() Fonksiyonu için seçilen sitenin ilgili kategorisi verilir.
 ```php
 <?php
 
