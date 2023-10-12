@@ -1,6 +1,8 @@
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 [![Total Downloads](https://img.shields.io/packagist/dt/evrenonur/numbertostring.svg)](https://packagist.org/packages/evrenonur/numbertostring)
+![GitHub repo size](https://img.shields.io/github/repo-size/evrenonur/numbertostring)
+
 # Sayıyı Metne Çevirme
 
 Faturalarınız vb işleriniz için fatura tutarını 4 farklı para biriminde ['TL', 'EUR', 'USD', 'GBP'] metin olarak çevirebilirsiniz.
